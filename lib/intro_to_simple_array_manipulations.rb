@@ -26,13 +26,9 @@ def using_concat(arr, things)
   arr.concat(things)
 end
 
-######
-
 def using_insert(arr, language)
   arr.insert(4,language)
 end
-
-######
 
 def using_uniq(arr)
   arr.uniq
