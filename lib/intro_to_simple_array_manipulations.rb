@@ -26,9 +26,13 @@ def using_concat(arr, things)
   arr.concat(things)
 end
 
+######
+
 def using_insert(arr)
   arr.insert(4)
 end
+
+######
 
 def using_uniq(arr)
   arr.uniq
@@ -37,6 +41,8 @@ end
 def using_flatten(arr)
   arr.flatten
 end
+
+######
 
 def using_delete(arr)
   arr.delete
