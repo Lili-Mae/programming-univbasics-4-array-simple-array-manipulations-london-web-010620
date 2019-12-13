@@ -40,8 +40,8 @@ end
 
 ######
 
-def using_delete(arr)
-  arr.delete
+def using_delete(arr, instructors)
+  arr.delete(instructors)
 end
 
 def using_delete_at
