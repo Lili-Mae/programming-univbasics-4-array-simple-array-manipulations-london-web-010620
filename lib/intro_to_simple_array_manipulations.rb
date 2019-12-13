@@ -45,5 +45,5 @@ def using_delete(arr, instructors)
 end
 
 def using_delete_at(arr, robot)
-  arr.delete()
+  arr.delete(robot)
 end
