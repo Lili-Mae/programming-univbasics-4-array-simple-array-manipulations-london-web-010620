@@ -28,7 +28,7 @@ end
 
 ######
 
-def using_insert(arr, )
+def using_insert(arr, language)
   arr.insert(4)
 end
 
