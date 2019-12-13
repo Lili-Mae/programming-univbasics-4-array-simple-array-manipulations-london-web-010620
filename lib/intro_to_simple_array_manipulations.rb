@@ -29,7 +29,7 @@ end
 ######
 
 def using_insert(arr, language)
-  arr.insert(4)
+  arr.insert(language)
 end
 
 ######
