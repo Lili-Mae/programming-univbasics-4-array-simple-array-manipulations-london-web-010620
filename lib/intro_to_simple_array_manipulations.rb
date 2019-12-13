@@ -44,6 +44,6 @@ def using_delete(arr, instructors)
   arr.delete(instructors)
 end
 
-def using_delete_at
-  
+def using_delete_at(arr, robot)
+  arr.delete()
 end
