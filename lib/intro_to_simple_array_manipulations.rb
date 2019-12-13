@@ -43,5 +43,5 @@ def using_delete(arr, instructors)
 end
 
 def using_delete_at(arr,integer)
-  arr.delete(integer)
+  arr.delete_at(integer)
 end
